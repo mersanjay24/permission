@@ -35,11 +35,9 @@ Example Code :
             });		
 
 ----------------------------------------------------
-Thanks For Tutorial 
-In the Market so many project and sample code 
-i also used so many sample example code for lurning 
-My all code is based on this tutorial it is also one of the good tutorial for permission
-Thanks Mahdi Tajik for creating tutorial
+In the Market so many project and sample code available and also used tham 
+My all code is based on this tutorial, it is also one of the good tutorial for permission
+Thanks 'Mahdi Tajik' for creating this nice tutorial
  https://github.com/mahdit83 
 
 Link : https://github.com/mahdit83/advancedPermissionHandler
