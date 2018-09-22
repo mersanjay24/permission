@@ -33,3 +33,19 @@ Example Code :
                     Toast.makeText(MainActivity.this, "onPermissionsDenied ", Toast.LENGTH_SHORT).show();
                 }
             });		
+
+----------------------------------------------------
+Thanks For Tutorial 
+In the Market so many project and sample code 
+i also used so many sample example code for lurning 
+My all code is based on this tutorial it is also one of the good tutorial for permission
+Thanks Mahdi Tajik for creating tutorial
+ https://github.com/mahdit83 
+
+Link : https://github.com/mahdit83/advancedPermissionHandler
+
+this tutorial only one disadvantages he use Urdu language only
+
+
+
+
